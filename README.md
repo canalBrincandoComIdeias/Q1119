@@ -3,7 +3,7 @@
 
 Projeto do Vídeo Q1119 Série **_Tutorial Maker_** powered by **_Petrobras_**
 
-:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/5m9l6TPndJw)
+:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/fg5zvM4mVa0)
 
 - Confira a série completa na Playlist [(Clique Aqui)](https://www.youtube.com/playlist?list=PL7CjOZ3q8fMfSiij6-3jm6nDhk7XdAp0p)
 
